@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+我是 Restent Ou，欢迎访问我的 Github Profile。
+
+学生，LittleSkin Community 团队成员，[Restent Blog](https://blog.restent.xyz) 站长。
+
+患有抑郁症，偏向文明交流（除非我不爽），在您与我谈话时请注意一些用语。
+
 <!--
 **Restent/Restent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
