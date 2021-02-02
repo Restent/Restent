@@ -2,7 +2,9 @@
 
 > 接下来的内容将会和 Restent Blog 内 [**关于我**](https://blog.restent.xyz/about) 的页面所写的内容一致。
 
-嗨！我是 Restent Ou。欢迎您。
+「他好像没有灵魂了，唯一有的是那双眼的哀伤与病态的气息。」
+
+我很明白，我的这位同学写的一篇文段的这段话，有可能指向在我。
 
 在大多数平台的个人说明中，我习惯使用“是一个学生，也是 LittleSkin Community Support 的一位成员”这样的说明。虽然平台的个人说明能写很多字，但我认为这样子写或许足够了。扩展一些的话，我还是 Restent Blog 的站长、Vdrias World! 管理员 ~~以及 [ZhouYuBin's Blog](https://zhouyubin.top) 的协助维护者~~ ，还加入了一些小群体。
 
